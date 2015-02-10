@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hood Park Hockey League</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_hphl">Welcome</string>
+    <string name="schedule">Schedule</string>
+    <string name="website">League News</string>
+    <string name="about">About</string>
+    <string name="createdby">Created by Michael Daigle</string>
+    <string name="ro">Rosters</string>
+    <string name="youtube">YouTube</string>
+
+</resources>
